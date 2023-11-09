@@ -1,4 +1,4 @@
-package java1.core;
+package core_java;
 
 import java.util.HashSet;
 import java.util.Set;

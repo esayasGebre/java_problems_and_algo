@@ -1,4 +1,4 @@
-package java1.core;
+package core_java;
 
 class Core1 {
 	public int x=100;

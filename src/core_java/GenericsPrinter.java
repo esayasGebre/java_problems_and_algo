@@ -1,4 +1,4 @@
-package java1.generics;
+package core_java;
 
 public class GenericsPrinter {
 

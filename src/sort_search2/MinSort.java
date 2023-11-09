@@ -1,4 +1,4 @@
-package java1.problems.sortsearch.arr;
+package sort_search2;
 
 public class MinSort {
 	String[] strArr;
