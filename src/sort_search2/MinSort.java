@@ -9,7 +9,6 @@ public class MinSort {
 	public void sort(){
 		if(strArr == null || strArr.length <=1) return;
 		int len = strArr.length;
-		String temp = null;
 		for(int i = 0; i < len; ++i){
 			int nextMinPos = minpos(i,len-1);
 			swap(i,nextMinPos); 
